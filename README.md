@@ -3,7 +3,7 @@
 A sample Flutter project for checking Wallet Connect link for Metamask on multiple platforms.
 
 **THE BIG QUESTION:** Does the prompt to connect an account pop up when Metamask opens? See
-discussion in `main.dart` for results tested by code uploader.
+discussion in `lib/main.dart` for results tested by code uploader.
 
 ## How to run
 
