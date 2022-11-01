@@ -1,0 +1,30 @@
+name: flutter_wallet_connect_metamask
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  walletconnect_dart: ^0.0.11
+  qr_flutter: ^4.0.0
+  url_launcher: ^6.1.5
+  flutter_svg: ^1.0.3
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  assets:
+    - assets/
+  uses-material-design: true
